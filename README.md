@@ -5,6 +5,6 @@ View images of storms
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ashraf-a-khan/Storm-Viewer/Walkthrough.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ashraf-a-khan/blob/master/Storm-Viewer/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
